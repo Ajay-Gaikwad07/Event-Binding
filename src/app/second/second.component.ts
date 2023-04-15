@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class SecondComponent {
 
   constructor() { }
-public batsmen ="I wont 4runs to senchury"
+public batsmen ="I wont 4 runs to win"
 public fun= "Marvellous Infosystem" 
 
   public data =""
